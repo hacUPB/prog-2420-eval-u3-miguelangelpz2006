@@ -11,6 +11,7 @@ En el mundo de los negocios y el espectáculo es fundamental la agilidad y la au
 ## Elaboración:
 ### Como vendedor:
 •	Datos necesarios: tipo de espectáculo, lugar del espectáculo, hora de presentación, asientos que desea vender, costo de los asientos
+
 •	Inicio
 o	#ingrese el tipo de espectáculo
 o	#ingrese lugar del espectáculo
