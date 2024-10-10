@@ -5,5 +5,5 @@
 Nombre:  Miguel Ángel Perea Zapata
 ID:  000552221
 ---
-## Especificaciones del trabajo hecho:
+## INTRODUCCIÓN:
 En el mundo de los negocios y el espectáculo es fundamental la agilidad y la automatización de procesos tan monótonos como lo son las reservas. Para esta problemática propongo hacer un sistema en el cual se puedan hacer las reservas de forma sencilla y sin la necesidad de personal, todo mediante una aplicación. Este sistema servirá para las pequeñas, medianas y grandes empresas, y que la persona que desee alquilar asientos en el lugar que sea, ya sea para dar una conferencia, dar una función de cine, dar un espectáculo de magia, etc.
