@@ -13,6 +13,7 @@ En el mundo de los negocios y el espectáculo es fundamental la agilidad y la au
 •	Datos necesarios: tipo de espectáculo, lugar del espectáculo, hora de presentación, asientos que desea vender, costo de los asientos
 
 •	Inicio
+
 	#ingrese el tipo de espectáculo
 
 	#ingrese lugar del espectáculo
@@ -42,6 +43,7 @@ En el mundo de los negocios y el espectáculo es fundamental la agilidad y la au
 	#imprimir todos los datos puestos y las matrices
 
 •	fin 
+
 ### Como comprador:
 •	Ver todos los datos que ha seleccionado el vendedor y la matriz con los asientos disponibles
 
