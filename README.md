@@ -13,33 +13,33 @@ En el mundo de los negocios y el espectáculo es fundamental la agilidad y la au
 •	Datos necesarios: tipo de espectáculo, lugar del espectáculo, hora de presentación, asientos que desea vender, costo de los asientos
 
 •	Inicio
-o	#ingrese el tipo de espectáculo
+	#ingrese el tipo de espectáculo
 
-o	#ingrese lugar del espectáculo
+	#ingrese lugar del espectáculo
 
-o	#ingrese hora de presentación
+	#ingrese hora de presentación
 
-o	“Crear matriz (representación del espacio del espectáculo) esta será actualizada por cada comprador, poniendo un valor de 0 si está disponible el asiento y de 1 si no lo está”
+	“Crear matriz (representación del espacio del espectáculo) esta será actualizada por cada comprador, poniendo un valor de 0 si está disponible el asiento y de 1 si no lo está”
 
-o	##ingrese el número de filas
+	##ingrese el número de filas
 
-o	##ingrese el número de columnas
+	##ingrese el número de columnas
 
-o	# ¿desea seleccionar el precio individualmente de cada asiento?
+	# ¿desea seleccionar el precio individualmente de cada asiento?
 
-o	##si la respuesta es sí:
+	##si la respuesta es sí:
 
-o	###crear función 
+	###crear función 
 
-o	####utilizar la función para asignarle precio a cada asiento hasta el ultimo
+	####utilizar la función para asignarle precio a cada asiento hasta el ultimo
 
-o	##si la respuesta es no:
+	##si la respuesta es no:
 
-o	##ingrese el precio de cada asiento
+	##ingrese el precio de cada asiento
 
-o	##crear una matriz del mismo tamaño que la representación del espectáculo
+	##crear una matriz del mismo tamaño que la representación del espectáculo
 
-o	#imprimir todos los datos puestos y las matrices
+	#imprimir todos los datos puestos y las matrices
 
 •	fin 
 ### Como comprador:
@@ -49,10 +49,10 @@ o	#imprimir todos los datos puestos y las matrices
 
 •	inicio
 
-o	#imprimir el sitio que ha seleccionado mostrándolo en la matriz 1
+	#imprimir el sitio que ha seleccionado mostrándolo en la matriz 1
 
-o	#imprimir el valor que tiene el asiento seleccionado, comparándolo con la misma posición de la matriz 2
+	#imprimir el valor que tiene el asiento seleccionado, comparándolo con la misma posición de la matriz 2
 
-o	#actualizar la matriz 1 y poner un 1 en el sitio que se seleccionó
+	#actualizar la matriz 1 y poner un 1 en el sitio que se seleccionó
 
 •	fin
