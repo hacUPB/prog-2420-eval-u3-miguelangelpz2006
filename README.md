@@ -10,6 +10,8 @@ ID:  000552221
 ## INTRODUCCIÓN:
 En el mundo de los negocios y el espectáculo es fundamental la agilidad y la automatización de procesos tan monótonos como lo son las reservas. Para esta problemática propongo hacer un sistema en el cual se puedan hacer las reservas de forma sencilla y sin la necesidad de personal, todo mediante una aplicación. Este sistema servirá para las pequeñas, medianas y grandes empresas, y que la persona que desee alquilar asientos en el lugar que sea, ya sea para dar una conferencia, dar una función de cine, dar un espectáculo de magia, etc.
 ---
+## Manual de uso:
+Tener en cuenta que existen dos casos de uso, uno como comprador y otro como vendedor. El vendedor debe de dar los datos sobre su show de forma detallada haciendo una representación del espacio que desea prestar mediante una matriz y poniendole un costo a los asientos, para luego mandarle esa información al posible comprador y que este pueda elegir en que asiento quiere estar y comparar entre los precios.
 ## Elaboración:
 ### Como vendedor:
 •	Datos necesarios: tipo de espectáculo, lugar del espectáculo, hora de presentación, asientos que desea vender, costo de los asientos
